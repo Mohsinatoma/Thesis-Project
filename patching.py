@@ -18,7 +18,7 @@ from empatches import EMPatches
 large_image_stack = tiff.imread('E:/DRIVE/Training/images/21_training.tif')
 large_mask_stack = cv2.imread('E:/DRIVE/Training/1st_manual/21_manual1.png')
 
-large_mask_stack = cv2.imread('E:/Ground.jpg')
+large_mask_stack = cv2.imread('E:/beforePostprocessing.png')
 
 
 # = tiff.imread('E:/DRIVE/Training/1st_manual/21_manual1.png')
